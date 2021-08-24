@@ -1,6 +1,7 @@
 module.exports = {
     title: 'Hello 晓旭',
     description: 'Just Text',
+    base:'/wBlog/',
     head: [
         ['link', {
             rel: 'icon',
